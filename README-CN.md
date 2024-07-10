@@ -20,29 +20,36 @@ Claude Artifacts 是由 Anthropic 的 Claude AI 助手生成的独立内容片�
 
 ## 如何贡献
 
-我们欢迎并鼓励贡献!如果你有一个有趣的 Claude 生成的 artifact,请遵循以下步骤:
+我们欢迎并鼓励贡献!如果你有一个有趣的 Claude 生成的 artifact，请按照以下步骤通过 issue 投稿：
 
-1. Fork 这个仓库
-2. 创建一个新的分支 (`git checkout -b add-new-artifact`)
-3. 添加你的 artifact 到相应的类别中
-4. Commit 你的更改 (`git commit -am 'Add new artifact'`)
-5. Push 到分支 (`git push origin add-new-artifact`)
-6. 创建一个新的 Pull Request
+1. 前往本项目的 [Issues 页面](https://github.com/NVO-2021/awesome-claude-artifacts/issues)
+2. 点击 "New Issue" 按钮
+3. 选择 "Artifact Submission" 模板（如果有的话）
+4. 填写必要的信息，包括：
+    - Artifact 的标题
+    - 简短描述
+    - 生成 artifact 的提示（如果可能）
+    - Artifact 的用途或潜在应用
+    - Artifact 的内容（代码、文本、图像链接等）
+5. 提交 issue
 
-请确保包含:
-- Artifact 的简短描述
-- 生成 artifact 的提示(如果可能)
-- Artifact 的用途或潜在应用
+我们的维护者团队将审核您的提交，如果符合项目标准，我们将把它添加到合适的类别中。
+
+请注意：通过提交 artifact，您同意将其置于本项目的开源许可之下。
 
 ## 类别
 
 - [代码片段](#代码片段)
+- [游戏](#游戏)
 - [文档](#文档)
 - [SVG 图像](#svg-图像)
 - [图表](#图表)
 - [其他](#其他)
 
-(在这里添加更多类别和示例)
+
+## 游戏
+- [Claw'd's Closet](https://claude.site/artifacts/c55cf857-d456-4520-8ee2-206697dfa2a3)
+
 
 ## 许可证
 

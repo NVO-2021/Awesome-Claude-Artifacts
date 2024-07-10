@@ -21,29 +21,36 @@ This project aims to:
 
 ## How to Contribute
 
-We welcome and encourage contributions! If you have an interesting Claude-generated artifact, please follow these steps:
+We welcome and encourage contributions! If you have an interesting Claude-generated artifact, please follow these steps to submit it via an issue:
 
-1. Fork this repository
-2. Create a new branch (`git checkout -b add-new-artifact`)
-3. Add your artifact to the appropriate category
-4. Commit your changes (`git commit -am 'Add new artifact'`)
-5. Push to the branch (`git push origin add-new-artifact`)
-6. Create a new Pull Request
+1. Go to the [Issues page](https://github.com/NVO-2021/awesome-claude-artifacts/issues) of this project
+2. Click on the "New Issue" button
+3. Choose the "Artifact Submission" template (if available)
+4. Fill in the necessary information, including:
+    - Title of the artifact
+    - A brief description
+    - The prompt used to generate the artifact (if possible)
+    - The purpose or potential applications of the artifact
+    - The content of the artifact (code, text, image link, etc.)
+5. Submit the issue
 
-Please make sure to include:
-- A brief description of the artifact
-- The prompt used to generate the artifact (if possible)
-- The purpose or potential applications of the artifact
+Our maintainer team will review your submission and, if it meets the project's criteria, we'll add it to the appropriate category.
+
+Note: By submitting an artifact, you agree to place it under the open-source license of this project.
+
 
 ## Categories
 
 - [Code Snippets](#code-snippets)
+- [Games](#games)
 - [Documents](#documents)
 - [SVG Images](#svg-images)
 - [Diagrams](#diagrams)
 - [Miscellaneous](#miscellaneous)
 
-(Add more categories and examples here)
+
+## Games
+- [Claw'd's Closet](https://claude.site/artifacts/c55cf857-d456-4520-8ee2-206697dfa2a3)
 
 ## License
 
