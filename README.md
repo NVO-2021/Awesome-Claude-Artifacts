@@ -50,6 +50,14 @@ Note: By submitting an artifact, you agree to place it under the open-source lic
 
 
 ## Games
+
+
+| Name                                                                                  | Description                                                                            | screenshot| remarks    
+|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------|
+| [Claw'd's Closet](https://claude.site/artifacts/c55cf857-d456-4520-8ee2-206697dfa2a3) | This is a crab dress-up game called "Claw'd's Closet". Here's an overview of the game. | ![Claw'd's Closet](https://ice.frostsky.com/2024/07/10/105dc1b00ceb902e0b065d2ced20fce9.png) | ✅Avaliable |
+
+请告诉我是否需要进一步调整或添加任何信息。
+
 - [Claw'd's Closet](https://claude.site/artifacts/c55cf857-d456-4520-8ee2-206697dfa2a3)
 
 ## License
